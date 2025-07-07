@@ -1,8 +1,8 @@
-#C++ raycaster
+# C++ raycaster
 
 A simple pseudo 3D raycaster implemented in c++ using the SFML graphics library.
 
-##Features
+## Features
 
 - Walls, ceilings, floors,
 - Can be modified for "reflection on floors", just comment out the color change when drawing floors,
@@ -13,11 +13,11 @@ A simple pseudo 3D raycaster implemented in c++ using the SFML graphics library.
 - Skybox,
 - Editable map
 
-##Requirements
+## Requirements
 
 Requires at least SFML version: 2.
 
-##Usage
+## Usage
 
 On linux:
 
